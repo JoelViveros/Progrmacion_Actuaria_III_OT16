@@ -14,7 +14,7 @@ while(z>=3 && z<=10){
   }
 }
 
-if (z>10) {superior <- (superior+1)} 
+if (z>=10) {superior <- (superior+1)} 
 else {inferior <- (inferior+1)}
 
 }
